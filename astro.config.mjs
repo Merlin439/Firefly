@@ -299,7 +299,7 @@ export default defineConfig({
 			assetsInlineLimit: 4096,
 		},
 	},
-	server: {
+	/* server: {
     port: 3000 // 将端口改为 3000
-  	},
+  	}, */
 });
